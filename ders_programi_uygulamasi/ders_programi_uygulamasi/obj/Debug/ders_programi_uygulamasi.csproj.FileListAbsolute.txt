@@ -1,0 +1,10 @@
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\bin\Debug\ders_programi_uygulamasi.exe.config
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\bin\Debug\ders_programi_uygulamasi.exe
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\bin\Debug\ders_programi_uygulamasi.pdb
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.Form1.resources
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.Properties.Resources.resources
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.csproj.GenerateResource.cache
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.csproj.CoreCompileInputs.cache
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.exe
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.pdb
+D:\!arches\Yazılım\c#\28-arrays\ders_programi_uygulamasi\ders_programi_uygulamasi\obj\Debug\ders_programi_uygulamasi.csproj.AssemblyReference.cache
